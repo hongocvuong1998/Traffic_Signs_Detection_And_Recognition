@@ -1,4 +1,6 @@
 Hongocvuong1998@gmail.com
+<<<<<<< HEAD
 ID: 16521850
 University Infomation of Technology
 Year: 2018
+Nothing change
